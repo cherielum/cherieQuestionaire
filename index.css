@@ -1,0 +1,28 @@
+* {
+	margin-top: 5px;
+}
+
+
+ul li a, ul.nav li a:visited {
+    color: #A4E869; //yellow-lime
+}
+
+ul li a:hover, ul.nav li a:active {
+    color: #38c5fc; //logo-blue
+}
+
+ul li.active a {
+    color: #b5b59c; //light-brown
+}
+
+.active1 {
+	color: #b5b59c; //light brown
+}
+
+.active2 {
+	color: #b5b59c; //light brown
+}
+
+.active3 {
+	color: #b5b59c; //light brown
+}
